@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Food App**
 
-- 🌱 I’m currently learning **Python and Nodejs**
+- 🌱 I’m currently learning **Python and Django**
 
 - 📫 How to reach me **waseemws456@gmail.com**
 
